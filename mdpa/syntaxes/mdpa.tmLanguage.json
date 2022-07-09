@@ -46,7 +46,7 @@
 		"types": {
 			"patterns": [{
 				"name": "entity.name.class",
-				"match": "\\b(TotalLagrangianElement2D4N|LineLoadCondition2D2N)\\b"
+				"match": "\\b(TotalLagrangianElement2D4N|LineLoadCondition2D2N|QSConvectionDiffusionExplicit2D3N|LineCondition2D2N)\\b"
 			}]
 		}
 	},
